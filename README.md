@@ -1,6 +1,6 @@
 # Quantitative Immunosubtraction
 ---
-Copyright Ryan Lanvdater MD, 2021
+Copyright Ryan Lanvdater MD, Vincent Laufer MD PhD, Lee Schroeder MD PhD, David Keren MD, 2021
 University of Michigan
 
 ## Introduction
